@@ -39,7 +39,6 @@
 - 🔭 **[CS-CHAT](https://cs-chat-1.onrender.com/)**: A real-time chat application  
 - 🌱 Expanding my skills in **NestJS** and **NextJS**  
 - 👯 Contributing to **[Kamu-Barber](https://app.netlify.com/sites/kamubarbearia/overview)**  
-- 🤝 Open to collaborators for **[Gen-AI](https://github.com/gustavosantana-034/gen-ai)**  
 - ⚡ Fun fact: I believe humor makes coding more enjoyable!
 
 ---
