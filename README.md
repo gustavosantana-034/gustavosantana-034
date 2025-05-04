@@ -108,7 +108,7 @@ Feel free to reach out for collaborations, project inquiries, or just a friendly
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-de-santana-barbosa/)  
 - 📧 [Email](mailto:gustavosantana559@gmail.com)  
-- 🌐 [Portfolio](https://gustavosantanabarbosa.netlify.app/)
+- 🌐 [Portfolio](https://gustavosantana.netlify.app/)
 
 ---
 
