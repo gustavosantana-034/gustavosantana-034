@@ -13,7 +13,7 @@
   <br>
 
   <p>
-    <a href="https://gustavosantanabarbosa.netlify.app/" target="_blank">
+    <a href="https://gustavosantana.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
     </a>
     <a href="https://www.linkedin.com/in/gustavo-de-santana-barbosa/" target="_blank">
