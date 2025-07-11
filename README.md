@@ -38,7 +38,7 @@
 
 - 🔭 **[CS-CHAT](https://cs-chat-1.onrender.com/)**: A real-time chat application  
 - 🌱 Expanding my skills in **NestJS** and **NextJS**  
-- 👯 Contributing to **[Kamu-Barber](https://app.netlify.com/sites/kamubarbearia/overview)**  
+- 👯 See the **[Kamu-Barber](https://app.netlify.com/sites/kamubarbearia/overview)** project  
 - ⚡ Fun fact: I believe humor makes coding more enjoyable!
 
 ---
